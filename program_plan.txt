@@ -1,0 +1,23 @@
+1. Creating 2 variables: 
+	Date - in which i save day, month and year;
+	Time - in which i save the duration of the concert.
+
+2. Creating class Concert with it's variables:
+	City, date, starting hour, list of songs and duration of the concert.
+
+3. Main function:
+	-declare array poitning to the class, 
+	which will save the 5 cities in which the band will play,
+	all along with the date, the songs and the duration of the cocnert in each of these cities.
+
+	-create an object to the class, map with specs string and vector (int)
+	-for loop iterating through all the 5 cocnerts
+	-if the song's name isn't in the map, add it
+	with value equal to vector with 1 element
+	-if the concert's number isn't in the vector, add it
+
+4. Creating the menu:
+	The user can pick one of the above...
+	-song name - showing cities in which the song is going to be played
+	-city - info about the concert in the chosen city
+	-exit the menu

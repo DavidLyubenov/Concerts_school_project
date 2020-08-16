@@ -1,0 +1,7 @@
+Write a program that services a tour in 5 different cities in Bulgaria.
+Using class named Concert with variables: city, date, starting hour,
+list of songs that are going to be played and duration of the concert.
+From the menu, the user should be able to pick a city and get the information
+about the concert which is goign to happen in that city.
+From the menu, the user should be able to pick a song and get the information
+about in which cities that song is goign to be played.
